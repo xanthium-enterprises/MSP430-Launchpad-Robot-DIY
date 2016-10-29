@@ -22,7 +22,7 @@ Tutorial follows a **DIY ethic** and can be assembled easily with things lying a
 
 ##Build Instructions
  - Build instructions for the robot can be found<a href = "http://xanthium.in/make-your-own-msp430-launchpad-robot"> online here</a>.
- - You can also checkout extra photos of our build on our <a href = "https://web.facebook.com/media/set/?set=a.998687233498271.1073741830.986869871346674&type=3&_rdr">Facebook page here</a>  
+ - You can also checkout extra photos of our build on our <a href = "https://web.facebook.com/media/set/?set=a.998687233498271.1073741830.986869871346674&type=3&_rdr">Facebook page here (Mehanical Section)</a> and <a href = "https://web.facebook.com/media/set/?set=a.998719560161705.1073741832.986869871346674&type=3&_rdr">here Electronics Section)</a>  
  - Build is also available in <a href = "http://www.instructables.com/id/Building-a-Robot-using-MSP430-Launchpad/">Instructable format here</a>.
  
 
