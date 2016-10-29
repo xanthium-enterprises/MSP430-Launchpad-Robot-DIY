@@ -21,7 +21,8 @@ Tutorial follows a **DIY ethic** and can be assembled easily with things lying a
  - Uses standard battery or a power cord tethered to a DC source(No rechargeable battery or charging circuit is provided to minimize cost and complexity)
 
 ##Build Instructions
-Build instructions for the robot can be found<a href = "http://xanthium.in/make-your-own-msp430-launchpad-robot"> online here</a>.
+ - Build instructions for the robot can be found<a href = "http://xanthium.in/make-your-own-msp430-launchpad-robot"> online here</a>.
+ - You can also checkout extra photos of our build on our <a href = "https://web.facebook.com/media/set/?set=a.998687233498271.1073741830.986869871346674&type=3&_rdr">Facebook page here</a>  
+ - Build is also available in <a href = "http://www.instructables.com/id/Building-a-Robot-using-MSP430-Launchpad/">Instructable format here</a>.
  
- <img src="http://www.xanthium.in/sites/default/files/site-images/ebay-store/xanthium-banner.png" />
 
