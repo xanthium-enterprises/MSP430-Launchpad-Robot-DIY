@@ -10,6 +10,8 @@ Here we will build a small differential powered robot from scratch using MSP430G
 
 Tutorial follows a **DIY ethic** and can be assembled easily with things lying around in your garage
 
+## Overview
+<img src = "http://www.xanthium.in/sites/default/files/site-images/launchpad-robot-electronics/MSP430-launchpad-robot-block-diagram.jpg" />
 ##Features of the Robot
  - MSP430 based controller (MSP430G2553) for providing the intelligence to the robot.
  - Differential Drive configuration using two geared motors(12V),No caster wheel (robot slides on a cardboard notch at the back)
