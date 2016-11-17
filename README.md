@@ -10,6 +10,11 @@ Here we will build a small differential powered robot from scratch using MSP430G
 
 Tutorial follows a **DIY ethic** and can be assembled easily with things lying around in your garage
 
+ - <a href ="http://www.ebay.in/sch/xanthium.enterprises/m.html?rt=nc&_dmd=2">**Store**</a>
+ - <a href ="http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad">**Website** (*Booster Pack*)</a>
+ - <a href ="http://xanthium.in/usermanual-for-msp430-robot-booster-pack-v1-0">**User Manual** (*Booster Pack*)</a>
+ - <a href ="http://xanthium.in/make-your-own-msp430-launchpad-robot">**Tutorial** (*DIY MSP430 Robot*)</a>
+ 
 ## Overview
 <img src = "http://www.xanthium.in/sites/default/files/site-images/launchpad-robot-electronics/MSP430-launchpad-robot-block-diagram.jpg" />
 ##Features of the Robot
